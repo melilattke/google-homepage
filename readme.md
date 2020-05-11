@@ -1,0 +1,1 @@
+La idea de este proyecto es simular la pagina de google solo en codigo html y css para empezar 
